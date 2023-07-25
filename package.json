@@ -7,10 +7,14 @@
   "main": "server.js",
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shevin1/sit725-2023-t2-prac2.git"
+    },
+
   "author": "Joshen",
-  "license": "ISC",
-  "description": ""
+  "license": "MIT",
+  "description": "sit "
 }
