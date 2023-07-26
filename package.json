@@ -12,9 +12,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Shevin1/sit725-2023-t2-prac2.git"
-    },
-
+  },
   "author": "Joshen",
   "license": "MIT",
-  "description": "sit "
+  "description": "sit725 "
 }
