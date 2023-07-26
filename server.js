@@ -18,6 +18,7 @@ app.use('/addTwoNumbers', (req,res)=>{
     var result= addNumbers(n1,n2);
     res.json({statuscode:200,data:result,message:"Success"});
 });
+
 app.listen(port,()=>{
 console.log("App listening to: "+port)
 })
